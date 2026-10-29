@@ -1,0 +1,22 @@
+{
+  "name": "limbus-company-team-planner",
+  "displayName": "Limbus Company Team Planner",
+  "programType": "team-planner",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Team profiles",
+    "Character notes",
+    "Encounter records"
+  ],
+  "topics": [
+    "limbus-company-team-planner",
+    "limbus-company-tools",
+    "limbus-company-menu",
+    "limbus-company-settings",
+    "limbus-company-configs",
+    "limbus-company-team-profiles",
+    "limbus-company-character-notes"
+  ]
+}
